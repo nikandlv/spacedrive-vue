@@ -1,10 +1,10 @@
 <template>
-    <button>
+    <button class="main-button">
         <slot>Button</slot>
     </button>
 </template>
 <style lang="stylus">
-button 
+.main-button 
     background #d55e54
     border unset
     padding 0.8rem 2rem
