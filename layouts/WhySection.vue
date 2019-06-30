@@ -22,7 +22,7 @@ export default {
 
 <style lang="stylus">
 .why-section
-    background url(/img/datacenter-mini.jpg) no-repeat center center fixed
+    background url(../static/img/datacenter-mini.jpg) no-repeat center center fixed
     -webkit-background-size cover
     -moz-background-size cover
     -o-background-size cover
