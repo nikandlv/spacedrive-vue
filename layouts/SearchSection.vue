@@ -8,6 +8,13 @@
                 <button>Search</button>
             </div>
         </div>
+        <div class="tld-pricing">
+            <span>.COM $9.99</span>
+            <span>.NET $7.54</span>
+            <span>.ORG $7.54</span>
+            <span>.CO $7.54</span>
+            <span>.UK $7.54</span>
+        </div>
     </div>
 </template>
 <style lang="stylus">
@@ -55,7 +62,14 @@
                 cursor pointer
                 outline none
                 height 100%
-
+.tld-pricing
+    color white
+    text-align center
+    font-family 'Poppins', sans-serif
+    span
+        margin 0 10px
+        font-size 0.8rem
+        
 @media (max-width: 1000px)
     .search-box
         width 90% !important
