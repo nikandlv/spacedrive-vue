@@ -27,8 +27,7 @@ export default {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [
-  ],
+  plugins: ['~/plugins/flexboxgrid'],
   /*
   ** Nuxt.js modules
   */
