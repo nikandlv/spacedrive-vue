@@ -12,6 +12,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@liqueflies/vue-flex-grid": "0.0.1",
     "normalize-stylus": "^1.0.1",
     "nuxt": "^2.0.0",
     "stylus-loader": "^3.0.2"
