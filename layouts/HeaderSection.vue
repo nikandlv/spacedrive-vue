@@ -26,6 +26,7 @@
                 <h1>Hosting Service</h1>
                 <h1>Provider</h1>
                 <p>Millions of customers rely on our products to get their ideas online</p>
+                <main-button>Buy now</main-button>
             </div>
             <header-decoration />
         </div>
@@ -33,11 +34,13 @@
 </template>
 <script>
 import TopbarDecoration from '../components/art/TopbarDecoration'
+import MainButton from '../components/button/MainButton'
 import HeaderDecoration from '../components/art/HeaderDecoration'
 export default {
     components:{
         TopbarDecoration,
-        HeaderDecoration
+        HeaderDecoration,
+        MainButton
     }
 }
 </script>
