@@ -94,4 +94,37 @@ export default {
         margin-top 2rem
         max-width 40vw
         line-height 1.7rem
+@media (max-width 900px)
+    .highlight-section
+        justify-content center
+        padding 8rem 1rem !important
+        .check-box-item
+            justify-content center
+            svg
+                position relative
+                
+        
+        h1
+            font-family: 'Museo', sans-serif
+            background white
+            color black
+            margin 10px auto
+            display table
+            padding 1rem
+        p
+            background white
+            color black
+            display table
+            padding 1rem
+            margin 10px auto
+        a
+            color black
+        button 
+            display block
+            margin 10px auto   
+        .section.second
+            margin-left unset
+            .text
+                margin auto
+                max-width 100%
 </style>
