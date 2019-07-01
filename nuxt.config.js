@@ -36,6 +36,9 @@ export default {
   /*
   ** Build configuration
   */
+ router: {
+  base: '/demo/view/spacedrive-vue/'
+  },
   build: {
     /*
     ** You can extend webpack config here
@@ -43,4 +46,5 @@ export default {
     extend(config, ctx) {
     }
   }
+  
 }
