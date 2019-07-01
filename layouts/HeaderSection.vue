@@ -50,6 +50,7 @@ nav
     display flex
     padding 2rem 4rem
     position relative
+    overflow-x auto
     z-index 10
     .logo
         flex-grow 1
@@ -89,6 +90,7 @@ header
         align-items  center
         background rgba(white,0.05)
         position relative
+        overflow-x auto
         z-index 1
         .divider
             height 3vh
@@ -97,7 +99,19 @@ header
         p
             color white
             margin 1vw
+            white-space pre
             font-size 0.9rem
         .push-end
             flex-grow 1
+@media (max-width 900px)
+    .about-section
+        padding 0rem 1rem !important
+        h1
+            background-color white
+            color black
+            display table
+        p
+            background-color white
+            color black !important
+            padding 1rem
 </style>

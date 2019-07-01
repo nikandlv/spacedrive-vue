@@ -12,6 +12,7 @@
 }
 main = #2708a2
 .root
+  overflow-x hidden
   background main
   min-height 100vh
   font-family: 'Open Sans Condensed', sans-serif;
