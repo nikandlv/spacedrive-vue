@@ -99,7 +99,7 @@ export default {
         justify-content center
         padding 8rem 1rem !important
         .check-box-item
-            justify-content center
+            padding-left 25%
             svg
                 position relative
                 

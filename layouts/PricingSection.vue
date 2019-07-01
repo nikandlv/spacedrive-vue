@@ -92,4 +92,7 @@ export default {
         left 0
         top 0
         background rgba(#2708a2,0.6)
+@media (max-width 900px)
+    .pricing-section
+        padding 8rem 1rem
 </style>

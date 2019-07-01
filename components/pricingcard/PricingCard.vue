@@ -18,6 +18,7 @@
     z-index 10
     padding 3rem
     background white
+    margin 10px
     border-radius 16px
     background-image: linear-gradient( #f170ce, #d55e54)
     .buy-now
