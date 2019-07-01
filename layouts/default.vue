@@ -12,7 +12,7 @@
 }
 main = #2708a2
 .root
-  background main
+  background-image: linear-gradient(to right, #f170ce , #592db3)
   min-height 100vh
   font-family: 'Open Sans Condensed', sans-serif;
 a
