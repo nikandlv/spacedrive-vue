@@ -2,7 +2,7 @@
     <div class="highlight-section">
         <div class="section">
             <first-highlight-decoration />
-            <h1>Why choose us</h1>
+            <h1>Secure website services</h1>
             <p>Domain registeration is The Process of Registering A Domain Name, Which Identifies One Or More IP Addresses With A Name That Is Easier To Remember And Use In Urls To Identify Particular Web Pages. The Person Or Business That Registers Domain Name Is Called The Domain Name Registrant.</p>
             <div class="check-box-item">
                 <checkbox-icon />
@@ -21,7 +21,7 @@
         <div class="section second">
             <second-highlight-decoration />
             <div class="text">
-                <h1>Why choose us</h1>
+                <h1>Secure domain registeration</h1>
                 <p>Domain registeration is The Process of Registering A Domain Name, Which Identifies One Or More IP Addresses With A Name That Is Easier To Remember And Use In Urls To Identify Particular Web Pages. The Person Or Business That Registers Domain Name Is Called The Domain Name Registrant.</p>
                 <div class="check-box-item">
                     <checkbox-icon />
