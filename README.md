@@ -2,13 +2,13 @@
 
 > Spacedrive is a hosting provider website, part of neoxus.ir project
 
-### artful-react 
+### spacedrive-vue 
 
-Artful is a company page design
+SpaceDrive is a company page design
 
 Mad props to <a href="https://www.behance.net/firosnv">Firos nv</a> for the design
 
-The whole project was written in half of a day
+The whole project was written in a day and half because i had some work to do!
 
 #### Run
 
@@ -28,7 +28,7 @@ Visit `localhost:3000`
 
 <a href="https://neoxus.ir/demo/artful-react">Demo</a>
 
-##### Artful is a part of http://neoxus.ir project
+##### SpaceDrive is a part of http://neoxus.ir project
 
 You are free to use as you like as long as you give the right credits to the project and to the designer
 
