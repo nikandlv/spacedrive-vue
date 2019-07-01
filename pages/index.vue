@@ -6,6 +6,7 @@
     <why-section />
     <services-section />
     <highlight-section />
+    <pricing-section />
   </div>  
 </template>
 <script>
@@ -15,6 +16,7 @@ import FeaturesSection from '../layouts/FeaturesSection'
 import WhySection from '../layouts/WhySection'
 import ServicesSection from '../layouts/ServicesSection'
 import HighlightSection from '../layouts/HighlightSection'
+import PricingSection from '../layouts/PricingSection'
 export default {
   components:{
     HeaderSection,
@@ -22,7 +24,8 @@ export default {
     FeaturesSection,
     WhySection,
     ServicesSection,
-    HighlightSection
+    HighlightSection,
+    PricingSection
   }
 
 }

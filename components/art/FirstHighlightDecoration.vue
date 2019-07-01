@@ -717,5 +717,4 @@ Z+dH5asEtDrtZY2KHOnt8wB+FUegaRmRtqFPsa+p1JaahJp/DerffGC9LRTIE89fOhwEOJcpOcIBsWaC
     top 20vh
     bottom 0
     margin auto 0
-    max-height 70vh
 </style>

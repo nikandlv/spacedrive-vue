@@ -271,5 +271,4 @@ fXE0l59M425NPd8XUmPu7d1ZQ7xYp/rOiKg4/aHXlFBTGiUdRUCcOIPHph6L6vsS5zLRsgaGYfnHZG9r
     top 0vh
     bottom 0
     margin auto 0
-    max-height 70vh
 </style>
