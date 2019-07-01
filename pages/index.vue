@@ -6,7 +6,6 @@
     <why-section />
     <services-section />
     <highlight-section />
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   </div>  
 </template>
 <script>

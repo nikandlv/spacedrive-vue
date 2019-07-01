@@ -1,5 +1,5 @@
 <template>
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="493.348" height="675.738" viewBox="0 0 493.348 675.738">
+  <svg class="second-highlight-section-decoration" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="493.348" height="675.738" viewBox="0 0 493.348 675.738">
   <defs>
     <linearGradient id="linear-gradient" x1="31.656" y1="0.112" x2="32.437" y2="0.888" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#5761d7"/>
@@ -264,3 +264,12 @@ fXE0l59M425NPd8XUmPu7d1ZQ7xYp/rOiKg4/aHXlFBTGiUdRUCcOIPHph6L6vsS5zLRsgaGYfnHZG9r
   </g>
 </svg>
 </template>
+<style lang="stylus">
+.second-highlight-section-decoration
+    position absolute
+    left 0
+    top 0vh
+    bottom 0
+    margin auto 0
+    max-height 70vh
+</style>
