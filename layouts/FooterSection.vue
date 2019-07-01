@@ -1,5 +1,6 @@
 <template>
-    <footer>
+    <div class="footer-wrapper">
+        <footer>
         <div class="item">
             <h3>SpaceDrive</h3>
             <p>4615 N. University Drive, Coral Springs,FL 2315 (800) 532-3124</p>
@@ -33,12 +34,24 @@
             </div>
         </div>
     </footer>
+    <copyright-section />
+    </div>
 </template>
+<script>
+import CopyrightSection from './CopyrightSection'
+export default {
+    components:{
+        CopyrightSection
+    }
+}
+</script>
+
 <style lang="stylus">
-footer
-    display flex
+.footer-wrapper
     padding 4rem
     background darken(#2708a2,20)
+footer
+    display flex
     overflow-y auto
     color white
     .item
