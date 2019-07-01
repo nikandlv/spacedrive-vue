@@ -56,4 +56,24 @@ export default {
         left 0
         top 0
         background rgba(#2708a2,0.6)
+@media (max-width 900px)
+    .why-section
+        justify-content center
+        padding 8rem 1rem !important
+        h1
+            font-family: 'Museo', sans-serif
+            background white
+            color black
+            margin 10px auto
+            display table
+            padding 1rem
+        p
+            background white
+            color black
+            display table
+            padding 1rem
+            margin 10px auto
+        button 
+            display block
+            margin 10px auto   
 </style>
