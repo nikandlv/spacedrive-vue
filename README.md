@@ -26,7 +26,7 @@ Visit `localhost:3000`
 
 #### Demo
 
-<a href="https://neoxus.ir/demo/artful-react">Demo</a>
+<a href="https://neoxus.ir/demo/spacedrive-vue">Demo</a>
 
 ##### SpaceDrive is a part of http://neoxus.ir project
 
