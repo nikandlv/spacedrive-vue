@@ -16,7 +16,7 @@ The whole project was written in a day and half because i had some work to do!
 
 `npm run dev`
 
-Visit `localhost:3000`
+Visit `localhost:3000/demo/view/analytix-vue/`
 
 ### Export
 
@@ -41,7 +41,7 @@ You are free to use as you like as long as you give the right credits to the pro
 # install dependencies
 $ npm run install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:3000/demo/view/analytix-vue/
 $ npm run dev
 
 # build for production and launch server
