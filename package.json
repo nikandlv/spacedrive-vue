@@ -23,6 +23,7 @@
     "babel-jest": "^24.1.0",
     "jest": "^24.1.0",
     "vue-jest": "^3.0.3",
-    "nodemon": "^1.18.9"
+    "nodemon": "^1.18.9",
+    "lodash.template": ">=4.5.0"
   }
 }
